@@ -1,4 +1,4 @@
-# typst-fontawesome
+# typst-academicons
 
 A Typst library for Academicons through the desktop fonts.
 
