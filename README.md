@@ -2,7 +2,7 @@
 
 A Typst library for Academicons through the desktop fonts.
 
-This is based on the code from `duskmoon314` and the package for #link("https://github.com/duskmoon314/typst-fontawesome")[#text("typst-fontawesome", weight: "bold")].
+This is based on the code from `duskmoon314` and the package for [**typst-fontawesome**](https://github.com/duskmoon314/typst-fontawesome).
 
 p.s. The library is based on the Academicons desktop fonts (v1.9.4)
 
@@ -10,7 +10,7 @@ p.s. The library is based on the Academicons desktop fonts (v1.9.4)
 
 ### Install the fonts
 
-You can download the fonts from the official website: https://jpswalsh.github.io/academicons/
+You can download the fonts from the [official website](https://jpswalsh.github.io/academicons/)
 
 After downloading the zip file, you can install the fonts depending on your OS.
 
