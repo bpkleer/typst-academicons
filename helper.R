@@ -12,17 +12,6 @@ download.file(
 
 academicons <- cssparser::read_css('academicons.css')
 
-academicons[4][[1]][[1]]
-
-academicons[4]
-
-
-stringr::str_detect(academicons[4][[1]][[1]], '\\\\e')
-
-length(academicons)
-
-names(academicons[4])
-
 # new df for saving strings
 helpdf <- data.frame(icon = character(), unicode = character())
 
@@ -109,5 +98,3 @@ for (i in 1:dim(helpdf)[1]) {
     write(transfer, file = 'gallery.typ', append = TRUE)
   }
 }
-
-transfer
