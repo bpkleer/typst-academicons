@@ -1,4 +1,4 @@
-# typst-academicons
+# typst-use-academicons
 
 A Typst library for Academicons through the desktop fonts.
 
@@ -87,7 +87,7 @@ Declaration is `ai-stack(box-args: (:), grid-args: (:), ai-icon-args: (:), ..ico
 
 ## Example
 
-See the [`academicons.typ`](https://typst.app/project/rsgOFC4YkwpN7OqtRyiXP3) file for a complete example.
+See the [`use-academicons.typ`](https://typst.app/project/rsgOFC4YkwpN7OqtRyiXP3) file for a complete example.
 
 ## Contribution
 
